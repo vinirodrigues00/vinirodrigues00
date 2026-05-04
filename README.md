@@ -40,10 +40,5 @@ Participo ativamente da comunidade dev, incluindo eventos como o **Google DevFes
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vinirodrigues00&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
-
----
 
 *"Sempre aprendendo, sempre construindo."*
