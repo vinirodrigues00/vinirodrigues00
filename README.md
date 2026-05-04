@@ -43,7 +43,6 @@ Participo ativamente da comunidade dev, incluindo eventos como o **Google DevFes
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vinirodrigues00&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinirodrigues00&layout=compact&langs_count=7&theme=tokyonight)
 
 ---
 
