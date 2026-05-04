@@ -40,5 +40,22 @@ Participo ativamente da comunidade dev, incluindo eventos como o **Google DevFes
 
 ---
 
+## 🔨 Atualmente
+
+- 💼 Trabalhando com **Laravel** no dia a dia
+- 📚 Estudando **Go** — construindo projetos do zero para aprender a linguagem
+- 🎓 Cursando **ADS** na UNA — Belo Horizonte
+- 🌱 Sempre buscando evoluir como desenvolvedor Full Stack
+
+---
+
+## 📬 Contato
+
+Quer trocar uma ideia, falar sobre projetos ou oportunidades?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusrodriguesrocha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusrodrigues00.vr@gmail.com)
+
+---
 
 *"Sempre aprendendo, sempre construindo."*
