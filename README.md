@@ -35,7 +35,6 @@ Participo ativamente da comunidade dev, incluindo eventos como o **Google DevFes
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
 | 🐾 **prontuario-vet** | Sistema de geração de prontuários veterinários em PDF | JavaScript |
-| 💈 **Barbearia** | Sistema web para gerenciamento de barbearia | PHP / Laravel |
 | 🔗 **Links-de-Redirecionamento** | Página de links personalizados | CSS |
 | ⚙️ **crud-golang** | CRUD de estudos em Go — aprendendo a linguagem | Go |
 
